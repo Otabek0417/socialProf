@@ -75,7 +75,7 @@ body {
 .hero {
   padding: 11.8rem 0 7.1rem;
 }
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 700px) {
   .hero {
     padding-bottom: 0;
     padding-top: 8.2rem;
@@ -86,7 +86,7 @@ body {
   align-items: center;
   flex-wrap: wrap;
 }
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 700px) {
   .hero__container {
     justify-content: center;
   }
@@ -102,7 +102,7 @@ body {
   letter-spacing: -2px;
   margin-bottom: 1.6rem;
 }
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 700px) {
   .hero__wrapper h1 {
     text-align: center;
     font-weight: 700;
@@ -118,7 +118,7 @@ body {
   letter-spacing: -0.633333px;
   color: #927b91;
 }
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 700px) {
   .hero__wrapper {
     margin: 0;
   }
@@ -126,7 +126,7 @@ body {
 .hero__list {
   padding: 2.7rem 0 1.8rem;
 }
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 700px) {
   .hero__list {
     padding: 3.9rem 0 4.9rem;
   }
@@ -144,7 +144,7 @@ body {
   gap: 3.2rem;
   margin-bottom: 1.6rem;
 }
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 700px) {
   .hero__item {
     padding: 1.6rem 5rem;
     width: 100%;
@@ -161,7 +161,7 @@ body {
   line-height: 1.6rem;
   color: #512051;
 }
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 700px) {
   .hero__item h4 {
     margin-top: 1.5rem;
   }
@@ -169,7 +169,7 @@ body {
 .hero__item:nth-child(2) {
   transform: translateX(50px);
 }
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 700px) {
   .hero__item:nth-child(2) {
     transform: translateX(0);
     width: 100%;
@@ -179,7 +179,7 @@ body {
 .hero__item:nth-child(3) {
   transform: translateX(100px);
 }
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 700px) {
   .hero__item:nth-child(3) {
     transform: translateX(0);
     width: 100%;
@@ -207,7 +207,7 @@ body {
   background: #512051;
   border-radius: 8px;
 }
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 700px) {
   .servis__item {
     width: 100%;
     max-width: 327px;

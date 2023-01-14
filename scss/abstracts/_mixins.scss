@@ -10,7 +10,7 @@
       @content;
     }
   } @else if $divice == mobile {
-    @media screen and (max-width: 680px) {
+    @media screen and (max-width: 700px) {
       @content;
     }
   }
